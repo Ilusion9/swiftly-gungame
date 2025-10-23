@@ -1,0 +1,195 @@
+{
+	"tag": "[Gungame]",
+	"immunity": {
+		"time": 3
+	},
+	"level": {
+		"player": {
+			"sounds": {
+				"up": "UI.ArmsRace.BecomeTeamLeader",
+				"down": "UI.ArmsRace.Demoted"
+			}
+		},
+		"sounds": {
+			"knife": "UI.ArmsRace.ReachedKnife_Music"
+		}
+	},
+	"levels": [
+		{
+			"name": "Glock",
+			"weapon": "weapon_glock",
+			"kills": 2
+		},
+		{
+			"name": "USP-S",
+			"weapon": "weapon_usp_silencer",
+			"kills": 2
+		},
+		{
+			"name": "P250",
+			"weapon": "weapon_p250",
+			"kills": 2
+		},
+		{
+			"name": "Dual Berettas",
+			"weapon": "weapon_elite",
+			"kills": 2
+		},
+		{
+			"name": "Tec9",
+			"weapon": "weapon_tec9",
+			"kills": 2
+		},
+		{
+			"name": "Five-Seven",
+			"weapon": "weapon_fiveseven",
+			"kills": 2
+		},
+		{
+			"name": "CZ75-Auto",
+			"weapon": "weapon_cz75a",
+			"kills": 2
+		},
+		{
+			"name": "Deagle",
+			"weapon": "weapon_deagle",
+			"kills": 2
+		},
+		{
+			"name": "Nova",
+			"weapon": "weapon_nova",
+			"kills": 2
+		},
+		{
+			"name": "Sawed-Off",
+			"weapon": "weapon_sawedoff",
+			"kills": 2
+		},
+		{
+			"name": "MAG-7",
+			"weapon": "weapon_mag7",
+			"kills": 2
+		},
+		{
+			"name": "XM1014",
+			"weapon": "weapon_xm1014",
+			"kills": 2
+		},
+		{
+			"name": "MAC-10",
+			"weapon": "weapon_mac10",
+			"kills": 2
+		},
+		{
+			"name": "PP-Bizon",
+			"weapon": "weapon_bizon",
+			"kills": 2
+		},
+		{
+			"name": "MP9",
+			"weapon": "weapon_mp9",
+			"kills": 2
+		},
+		{
+			"name": "UMP-45",
+			"weapon": "weapon_ump45",
+			"kills": 2
+		},
+		{
+			"name": "MP7",
+			"weapon": "weapon_mp7",
+			"kills": 2
+		},
+		{
+			"name": "P90",
+			"weapon": "weapon_p90",
+			"kills": 2
+		},
+		{
+			"name": "Galil AR",
+			"weapon": "weapon_galilar",
+			"kills": 2
+		},
+		{
+			"name": "FAMAS",
+			"weapon": "weapon_famas",
+			"kills": 2
+		},
+		{
+			"name": "SSG 08",
+			"weapon": "weapon_ssg08",
+			"kills": 2
+		},
+		{
+			"name": "AK-47",
+			"weapon": "weapon_ak47",
+			"kills": 2
+		},
+		{
+			"name": "M4A1-S",
+			"weapon": "weapon_m4a1_silencer",
+			"kills": 2
+		},
+		{
+			"name": "M4A4",
+			"weapon": "weapon_m4a1",
+			"kills": 2
+		},
+		{
+			"name": "SG 553",
+			"weapon": "weapon_sg556",
+			"kills": 2
+		},
+		{
+			"name": "AUG",
+			"weapon": "weapon_aug",
+			"kills": 2
+		},
+		{
+			"name": "Negev",
+			"weapon": "weapon_negev",
+			"kills": 2
+		},
+		{
+			"name": "M249",
+			"weapon": "weapon_m249",
+			"kills": 2
+		},
+		{
+			"name": "SCAR-20",
+			"weapon": "weapon_scar20",
+			"kills": 2
+		},
+		{
+			"name": "G3SG1",
+			"weapon": "weapon_g3sg1",
+			"kills": 2
+		},
+		{
+			"name": "AWP",
+			"weapon": "weapon_awp",
+			"kills": 2
+		},
+		{
+			"name": "HE Grenade",
+			"weapon": "weapon_hegrenade",
+			"kills": 1
+		}
+	],
+	"points": {
+		"level": {
+			"up": 2,
+			"down": -2
+		},
+		"win": {
+			"winner": 64
+		}
+	},
+	"warmup": {
+		"weapons": [
+			"weapon_ak47",
+			"weapon_m4a1_silencer",
+			"weapon_m4a1"
+		]
+	}
+}
